@@ -2,7 +2,8 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
-* [2025-05-25] Differences between working in companies and working for myself, Node.js tips / 在公司工作和为自己工作的差别，Node.js的一些小记录 ([#12](https://github.com/baddif/daily-tech-sharing/issues/12)) - `Attitude`, `Node.js`, `Redis`, `Message Queue`
+* [2025-05-27] Complex Data Structure & Redux data not saved & time is not enough / 复杂数据结构，Redux使用中的注意事项，时间，时间…… ([#13](https://github.com/baddif/daily-tech-sharing/issues/13)) - `Data Structure`, `Redux`, `Time`
+* [2025-05-26] Differences between working in companies and working for myself, Node.js tips / 在公司工作和为自己工作的差别，Node.js的一些小记录 ([#12](https://github.com/baddif/daily-tech-sharing/issues/12)) - `Attitude`, `Node.js`, `Redis`, `Message Queue`
 * [2025-05-25] Thoughts about AI, SEO and Reading / 关于AI，SEO，读书的一点感想和记录 ([#11](https://github.com/baddif/daily-tech-sharing/issues/11)) - `AI`, `SEO`, `Reading`, `Book`, `TensorFlow`
 * [2025-05-24] useSelector@Redux tips, Works and Human Nature / 关于Redux中useSelector的用法，关于工作人性的一点想法 ([#10](https://github.com/baddif/daily-tech-sharing/issues/10)) - `React`, `Redux`, `Human Nature`, `AI`
 * [2025-05-23]Tips about PostgreSQL & Wordpress Page Refreshing for Testing & Git add / 关于PostgreSQL & Wordpress页面刷新测试 & Git add 的小技巧 ([#9](https://github.com/baddif/daily-tech-sharing/issues/9)) - `Wordpress`, `database`, `PostgreSQL`, `git`
