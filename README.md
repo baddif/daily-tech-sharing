@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* [2025-05-28] White space on top of wordpress page(not fixed), limitation of retool ListView / Wordpress页面顶端的诡异白边（未解决），Retool ListView的局限 ([#14](https://github.com/baddif/daily-tech-sharing/issues/14)) - `Wordpress`, `React`, `Retool`, `ListView`, `white space on top of page`
 * [2025-05-27] Complex Data Structure & Redux data not saved & time is not enough / 复杂数据结构，Redux使用中的注意事项，时间，时间…… ([#13](https://github.com/baddif/daily-tech-sharing/issues/13)) - `Data Structure`, `Redux`, `Time`
 * [2025-05-26] Differences between working in companies and working for myself, Node.js tips / 在公司工作和为自己工作的差别，Node.js的一些小记录 ([#12](https://github.com/baddif/daily-tech-sharing/issues/12)) - `Attitude`, `Node.js`, `Redis`, `Message Queue`
 * [2025-05-25] Thoughts about AI, SEO and Reading / 关于AI，SEO，读书的一点感想和记录 ([#11](https://github.com/baddif/daily-tech-sharing/issues/11)) - `AI`, `SEO`, `Reading`, `Book`, `TensorFlow`
