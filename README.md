@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* [2025-06-04] Recording and Sharing about Independently Development - The Most Important Thing / 独立开发记录与分享 - 最重要的事情是什么？ ([#21](https://github.com/baddif/daily-tech-sharing/issues/21)) - `Independent Development`
 * [2025-06-03] Recording and Sharing about Independently Development - Map in React, Map with async functions array, Redis tips / 独立开发记录与分享 - React中的Map函数注意事项，异步函数相关的map函数使用，Redis的使用小技巧 ([#20](https://github.com/baddif/daily-tech-sharing/issues/20)) - `React`, `Redis`, `Playwright`, `JavaScript`, `Independent Development`
 * [2025-06-02] Recording and Sharing about Independently Development - Checkbox in React, Invisible Characters in Database / 独立开发记录与分享 - React中的Checkbox使用注意事项，数据库中的不可见字符 ([#19](https://github.com/baddif/daily-tech-sharing/issues/19)) - `React`, `Database`, `PostgreSQL`, `Invisible Characters`, `Independent Development`
 * [2025-06-01] Recording and Sharing about Independently Development - Wordpress Login Sessions / 独立开发记录与分享 - Wordpress登录Session ([#18](https://github.com/baddif/daily-tech-sharing/issues/18)) - `React`, `Login Session`, `Wordpress`, `X-WP-Nonce`, `Independent Development`
