@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #23 [[2025-06-06] Recording and Sharing about Independently Development - Why I started recently / 独立开发记录与分享 - 我为什么最近开始独立开发](https://github.com/baddif/daily-tech-sharing/issues/23) - `Independent Development`
 * #22 [[2025-06-05] Recording and Sharing about Independently Development - The Screenshot format from Playwright to Retool / 独立开发记录与分享 - Playwright的截屏格式及在Retool中显示](https://github.com/baddif/daily-tech-sharing/issues/22) - `Independent Development`, `Playwright`, `Retool`
 * [2025-06-04] Recording and Sharing about Independently Development - The Most Important Thing / 独立开发记录与分享 - 最重要的事情是什么？ ([#21](https://github.com/baddif/daily-tech-sharing/issues/21)) - `Independent Development`
 * [2025-06-03] Recording and Sharing about Independently Development - Map in React, Map with async functions array, Redis tips / 独立开发记录与分享 - React中的Map函数注意事项，异步函数相关的map函数使用，Redis的使用小技巧 ([#20](https://github.com/baddif/daily-tech-sharing/issues/20)) - `React`, `Redis`, `Playwright`, `JavaScript`, `Independent Development`
