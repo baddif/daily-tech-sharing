@@ -2,7 +2,8 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
-* #25 [[2025-06-08] Recording and Sharing about Independently Development - Am I efficient enough? / 独立开发记录与分享 - 高效？低效？]([)](https://github.com/baddif/daily-tech-sharing/issues/25) - `Independent Development`
+* #26 [[2025-06-09] Recording and Sharing about Independently Development - Filter on data source of ListView & functions in features / 独立开发记录与分享 - ListView组件的过滤 & 属性中的函数写法](https://github.com/baddif/daily-tech-sharing/issues/26) - `Independent Development`, `Retool`
+* #25 [[2025-06-08] Recording and Sharing about Independently Development - Am I efficient enough? / 独立开发记录与分享 - 高效？低效？](https://github.com/baddif/daily-tech-sharing/issues/25) - `Independent Development`
 * #24 [[2025-06-07] Recording and Sharing about Independently Development - So many details... / 独立开发记录与分享 - 做的东西不难，但是关键是不熟悉，太多细节了](https://github.com/baddif/daily-tech-sharing/issues/24) - `Independent Development`, `React`, `Tailwind`
 * #23 [[2025-06-06] Recording and Sharing about Independently Development - Why I started recently / 独立开发记录与分享 - 我为什么最近开始独立开发](https://github.com/baddif/daily-tech-sharing/issues/23) - `Independent Development`
 * #22 [[2025-06-05] Recording and Sharing about Independently Development - The Screenshot format from Playwright to Retool / 独立开发记录与分享 - Playwright的截屏格式及在Retool中显示](https://github.com/baddif/daily-tech-sharing/issues/22) - `Independent Development`, `Playwright`, `Retool`
