@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #27 [[2025-06-10] Recording and Sharing about Independently Development - Time and Effciency & Work Life Balance / 独立开发记录与分享 - 再聊聊关于时间和效率，以及工作生活的平衡](https://github.com/baddif/daily-tech-sharing/issues/27) - `Independent Development`, `Freelancer`
 * #26 [[2025-06-09] Recording and Sharing about Independently Development - Filter on data source of ListView & functions in features / 独立开发记录与分享 - ListView组件的过滤 & 属性中的函数写法](https://github.com/baddif/daily-tech-sharing/issues/26) - `Independent Development`, `Retool`
 * #25 [[2025-06-08] Recording and Sharing about Independently Development - Am I efficient enough? / 独立开发记录与分享 - 高效？低效？](https://github.com/baddif/daily-tech-sharing/issues/25) - `Independent Development`
 * #24 [[2025-06-07] Recording and Sharing about Independently Development - So many details... / 独立开发记录与分享 - 做的东西不难，但是关键是不熟悉，太多细节了](https://github.com/baddif/daily-tech-sharing/issues/24) - `Independent Development`, `React`, `Tailwind`
