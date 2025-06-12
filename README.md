@@ -2,7 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
-* #29[[2025-06-12] Recording and Sharing about Independently Development - How to "Solve" Problems As Soon As Possible / 独立开发记录与分享 - 如何快速“解决”问题](https://github.com/baddif/daily-tech-sharing/issues/29) - `Independent Development`, `Wordpress`, `PHP`, `Database`
+* #29 [[2025-06-12] Recording and Sharing about Independently Development - How to "Solve" Problems As Soon As Possible / 独立开发记录与分享 - 如何快速“解决”问题](https://github.com/baddif/daily-tech-sharing/issues/29) - `Independent Development`, `Wordpress`, `PHP`, `Database`
 * #28 [[2025-06-11] Recording and Sharing about Independently Development - Strggling with SMTP / 独立开发记录与分享 - 折腾SMTP服务器](https://github.com/baddif/daily-tech-sharing/issues/28) - `Independent Development`, `Postfix`, `OpenDKIM`, `SMTP`
 * #27 [[2025-06-10] Recording and Sharing about Independently Development - Time and Effciency & Work Life Balance / 独立开发记录与分享 - 再聊聊关于时间和效率，以及工作生活的平衡](https://github.com/baddif/daily-tech-sharing/issues/27) - `Independent Development`, `Freelancer`
 * #26 [[2025-06-09] Recording and Sharing about Independently Development - Filter on data source of ListView & functions in features / 独立开发记录与分享 - ListView组件的过滤 & 属性中的函数写法](https://github.com/baddif/daily-tech-sharing/issues/26) - `Independent Development`, `Retool`
