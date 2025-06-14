@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #32 [[2025-06-15] Recording and Sharing about Independently Development - The Unexpected Position of Modal Components / 独立开发记录与分享 - Modal组件显示位置异常](https://github.com/baddif/daily-tech-sharing/issues/32) - `Independent Development`, `Wordpress`, `React`, `Framer Motion`, `Tailwind CSS`, `Animation`
 * #31 [[2025-06-14] Recording and Sharing about Independently Development - Wordpress user redirect / 独立开发记录与分享 - Wordpress中用户重定向](https://github.com/baddif/daily-tech-sharing/issues/31) - `Independent Development`, `Wordpress`
 * #30 [[2025-06-13] Recording and Sharing about Independently Development - Wordpress i18n error and database boolean / 独立开发记录与分享 - Wordpress中的i18n设置和数据库中的boolean类型](https://github.com/baddif/daily-tech-sharing/issues/30) - `Independent Development`, `Wordpress`, `i18n`, `Database`
 * #29 [[2025-06-12] Recording and Sharing about Independently Development - How to "Solve" Problems As Soon As Possible / 独立开发记录与分享 - 如何快速“解决”问题](https://github.com/baddif/daily-tech-sharing/issues/29) - `Independent Development`, `Wordpress`, `PHP`, `Database`
