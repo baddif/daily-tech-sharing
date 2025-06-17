@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #35 [[2025-06-18] Recording and Sharing about Independently Development - How to get the original data in Table components in Retool / 独立开发记录与分享 - Retool的Table组件中如何获取源数据](https://github.com/baddif/daily-tech-sharing/issues/35) - `Independent Development`, `Retool`
 * #34 [[2025-06-17] Recording and Sharing about Independently Development - Button style & short code didn't work in Wordpress, React plugin / 独立开发记录与分享 - Wordpress React 插件中，自定义按钮样式不生效，短代码不生效](https://github.com/baddif/daily-tech-sharing/issues/34) - `Independent Development`, `Wordpress`, `React`, `Plugin`, `Tailwind CSS`
 * #33 [[2025-06-16] Recording and Sharing about Independently Development - Try Not To Be A Perfectionist / 独立开发记录与分享 - 不要做完美主义者](https://github.com/baddif/daily-tech-sharing/issues/33) - `Independent Development`, `Perfectionist`, `Freelancer`
 * #32 [[2025-06-15] Recording and Sharing about Independently Development - The Unexpected Position of Modal Components / 独立开发记录与分享 - Modal组件显示位置异常](https://github.com/baddif/daily-tech-sharing/issues/32) - `Independent Development`, `Wordpress`, `React`, `Framer Motion`, `Tailwind CSS`, `Animation`
