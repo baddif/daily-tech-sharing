@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #38 [[2025-06-21] Recording and Sharing about Independently Development - Memories about Virtual Machines and Dockers - 关于虚拟机和Docker](https://github.com/baddif/daily-tech-sharing/issues/38) - `Independent Development`, `Virtual Machine`, `Docker`, `Game`
 * #37 [[2025-06-20] Recording and Sharing about Independently Development - Speed is the MOST Important Thing - 速度最为重要](https://github.com/baddif/daily-tech-sharing/issues/37) - `Independent Development`, `Time`, `Time Saving`, `Pace of Life`, `freelancer`, `efficiency`
 * #36 [[2025-06-19] Recording and Sharing about Independently Development - Time is Money, Friend / 独立开发记录与分享 - 时间就是金钱](https://github.com/baddif/daily-tech-sharing/issues/36) - `Independent Development`, `Time`, `Time Saving`, `Pace of Life`
 * #35 [[2025-06-18] Recording and Sharing about Independently Development - How to get the original data in Table components in Retool / 独立开发记录与分享 - Retool的Table组件中如何获取源数据](https://github.com/baddif/daily-tech-sharing/issues/35) - `Independent Development`, `Retool`
