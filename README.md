@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #40 [[2025-06-23] Recording and Sharing about Independently Development - Notes about AWS Storage / 独立开发记录与分享 - AWS的Storage笔记](https://github.com/baddif/daily-tech-sharing/issues/40) - `Independent Development`, `AWS`, `S3`, `Storage`
 * #39 [[2025-06-22] Recording and Sharing about Independently Development - Server & IP & Domain Name & DNS, necessary things about setting up a website / 独立开发记录与分享 - Server & IP & Domain Name & DNS，建设网站的必要之事](https://github.com/baddif/daily-tech-sharing/issues/39) - `Independent Development`, `Server`, `IP`, `Domain Name`, `DNS`
 * #38 [[2025-06-21] Recording and Sharing about Independently Development - Memories about Virtual Machines and Dockers / 独立开发记录与分享 - 关于虚拟机和Docker](https://github.com/baddif/daily-tech-sharing/issues/38) - `Independent Development`, `Virtual Machine`, `Docker`, `Game`
 * #37 [[2025-06-20] Recording and Sharing about Independently Development - Speed is the MOST Important Thing / 独立开发记录与分享 - 速度最为重要](https://github.com/baddif/daily-tech-sharing/issues/37) - `Independent Development`, `Time`, `Time Saving`, `Pace of Life`, `freelancer`, `efficiency`
