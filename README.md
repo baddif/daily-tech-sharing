@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #42 [[2025-06-25] Recording and Sharing about Independently Development - WebSocket on Node.js / 独立开发记录与分享 - Node.js服务器上的WebSocket](https://github.com/baddif/daily-tech-sharing/issues/42) - `Independent Development`, `WebSocket`, `Node.js`, `AI`
 * #41 [[2025-06-24] Recording and Sharing about Independently Development - PR & Pull Request / 独立开发记录与分享 - PR & Pull Request笔记](https://github.com/baddif/daily-tech-sharing/issues/41) - `Independent Development`, `Git`, `PR`, `Pull Request`
 * #40 [[2025-06-23] Recording and Sharing about Independently Development - Notes about AWS Storage / 独立开发记录与分享 - AWS的Storage笔记](https://github.com/baddif/daily-tech-sharing/issues/40) - `Independent Development`, `AWS`, `S3`, `Storage`
 * #39 [[2025-06-22] Recording and Sharing about Independently Development - Server & IP & Domain Name & DNS, necessary things about setting up a website / 独立开发记录与分享 - Server & IP & Domain Name & DNS，建设网站的必要之事](https://github.com/baddif/daily-tech-sharing/issues/39) - `Independent Development`, `Server`, `IP`, `Domain Name`, `DNS`
