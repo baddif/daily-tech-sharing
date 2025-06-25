@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #43 [[2025-06-26] Recording and Sharing about Independently Development - Rules in ".gitignore" / 独立开发记录与分享 - Rules in ".gitignore"](https://github.com/baddif/daily-tech-sharing/issues/43) - `Independent Development`, `Git`, `.gitignore`
 * #42 [[2025-06-25] Recording and Sharing about Independently Development - WebSocket on Node.js / 独立开发记录与分享 - Node.js服务器上的WebSocket](https://github.com/baddif/daily-tech-sharing/issues/42) - `Independent Development`, `WebSocket`, `Node.js`, `AI`
 * #41 [[2025-06-24] Recording and Sharing about Independently Development - PR & Pull Request / 独立开发记录与分享 - PR & Pull Request笔记](https://github.com/baddif/daily-tech-sharing/issues/41) - `Independent Development`, `Git`, `PR`, `Pull Request`
 * #40 [[2025-06-23] Recording and Sharing about Independently Development - Notes about AWS Storage / 独立开发记录与分享 - AWS的Storage笔记](https://github.com/baddif/daily-tech-sharing/issues/40) - `Independent Development`, `AWS`, `S3`, `Storage`
