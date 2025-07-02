@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #49 [[2025-07-01] Recording and Sharing about Independently Development - How to set up a website all by myself(3) / 独立开发记录与分享 - 仅靠我自己如何搭建一个网站（三）](https://github.com/baddif/daily-tech-sharing/issues/49) - `Independent Development`, `Website`
 * #48 [[2025-07-01] Recording and Sharing about Independently Development - How to set up a website all by myself(2) / 独立开发记录与分享 - 仅靠我自己如何搭建一个网站（二）](https://github.com/baddif/daily-tech-sharing/issues/48) - `Independent Development`, `Website`
 * #47 [[2025-06-30] Recording and Sharing about Independently Development - How to set up a website all by myself(1) / 独立开发记录与分享 - 仅靠我自己如何搭建一个网站（一）](https://github.com/baddif/daily-tech-sharing/issues/47) - `Independent Development`, `Website`
 * #46 [[2025-06-29] Recording and Sharing about Independently Development - Cannot Fine Module In TypeScript & JavaScript Mixing Project / 独立开发记录与分享 - 在TypeScript和JavaScript的混合项目中报错找不到模块](https://github.com/baddif/daily-tech-sharing/issues/46) - `Independent Development`, `TypeScript`, `JavaScript`, `tsc`, `ESM`, `ES6`
