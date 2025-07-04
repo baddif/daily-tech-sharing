@@ -2,7 +2,8 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
-* #50 [[2025-07-03] Recording and Sharing about Independently Development - How to set up a website all by myself(4) / 独立开发记录与分享 - 仅靠我自己如何搭建一个网站（四）](https://github.com/baddif/daily-tech-sharing/issues/49) - `Independent Development`, `Website`, `Wordpress`, `React`
+* #51 [[2025-07-04] Recording and Sharing about Independently Development - How to set up a website all by myself(5) / 独立开发记录与分享 - 仅靠我自己如何搭建一个网站（五）](https://github.com/baddif/daily-tech-sharing/issues/51) - `Independent Development`, `PHP`, `Wordpress`, `React`
+* #50 [[2025-07-03] Recording and Sharing about Independently Development - How to set up a website all by myself(4) / 独立开发记录与分享 - 仅靠我自己如何搭建一个网站（四）](https://github.com/baddif/daily-tech-sharing/issues/50) - `Independent Development`, `Website`, `Wordpress`, `React`
 * #49 [[2025-07-02] Recording and Sharing about Independently Development - How to set up a website all by myself(3) / 独立开发记录与分享 - 仅靠我自己如何搭建一个网站（三）](https://github.com/baddif/daily-tech-sharing/issues/49) - `Independent Development`, `Website`
 * #48 [[2025-07-01] Recording and Sharing about Independently Development - How to set up a website all by myself(2) / 独立开发记录与分享 - 仅靠我自己如何搭建一个网站（二）](https://github.com/baddif/daily-tech-sharing/issues/48) - `Independent Development`, `Website`
 * #47 [[2025-06-30] Recording and Sharing about Independently Development - How to set up a website all by myself(1) / 独立开发记录与分享 - 仅靠我自己如何搭建一个网站（一）](https://github.com/baddif/daily-tech-sharing/issues/47) - `Independent Development`, `Website`
