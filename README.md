@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #62 [[2025-07-15] Recording and Sharing about Independently Development - How to set up a website all by myself(16) / 独立开发记录与分享 - 仅靠我自己如何搭建一个网站（十六）](https://github.com/baddif/daily-tech-sharing/issues/62) - `Independent Development`
 * #61 [[2025-07-14] Recording and Sharing about Independently Development - How to set up a website all by myself(15) / 独立开发记录与分享 - 仅靠我自己如何搭建一个网站（十五）](https://github.com/baddif/daily-tech-sharing/issues/61) - `Independent Development`
 * #60 [[2025-07-13] Recording and Sharing about Independently Development - How to set up a website all by myself(14) / 独立开发记录与分享 - 仅靠我自己如何搭建一个网站（十四）](https://github.com/baddif/daily-tech-sharing/issues/60) - `Independent Development`
 * #59 [[2025-07-12] Recording and Sharing about Independently Development - How to set up a website all by myself(13) / 独立开发记录与分享 - 仅靠我自己如何搭建一个网站（十三）](https://github.com/baddif/daily-tech-sharing/issues/59) - `Independent Development`
