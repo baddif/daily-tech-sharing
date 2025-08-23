@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #101 [[2025-08-24] Recording and Sharing about Independently Development - How to work as an independent developer? (5) / 独立开发记录与分享 - 如何成为独立开发者？（五）](https://github.com/baddif/daily-tech-sharing/issues/101) - `Independent Development`
 * #100 [[2025-08-23] Recording and Sharing about Independently Development - How to work as an independent developer? (4) / 独立开发记录与分享 - 如何成为独立开发者？（四）](https://github.com/baddif/daily-tech-sharing/issues/100) - `Independent Development`
 * #99 [[2025-08-22] Recording and Sharing about Independently Development - How to work as an independent developer? (3) / 独立开发记录与分享 - 如何成为独立开发者？（三）](https://github.com/baddif/daily-tech-sharing/issues/99) - `Independent Development`
 * #98 [[2025-08-21] Recording and Sharing about Independently Development - How to work as an independent developer? (2) / 独立开发记录与分享 - 如何成为独立开发者？（二）](https://github.com/baddif/daily-tech-sharing/issues/98) - `Independent Development`
