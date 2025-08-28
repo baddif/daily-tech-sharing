@@ -2,8 +2,8 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
-* #104 [[2025-08-28] Nonpareil Courses 1 - Certified AWS Practitioner(CLF-02) 01-1 / “无与伦比”系列课程（一） - 亚马逊云认证 Certified AWS Practitioner(CLF-02) 01-1](https://github.com/baddif/daily-tech-sharing/issues/104) -  `Nonpareil`, `aws`, `Independent Development`
-* #103 [[2025-08-27] Nonpareil Courses 1 - Certified AWS Practitioner(CLF-02) 01 / “无与伦比”系列课程（一） - 亚马逊云认证 Certified AWS Practitioner(CLF-02) 01](https://github.com/baddif/daily-tech-sharing/issues/104) -  `Nonpareil`, `aws`, `Independent Development`
+* #105 [[2025-08-28] Nonpareil Courses 1 - Certified AWS Practitioner(CLF-02) 01-1 / “无与伦比”系列课程（一） - 亚马逊云认证 Certified AWS Practitioner(CLF-02) 01-1](https://github.com/baddif/daily-tech-sharing/issues/104) -  `Nonpareil`, `aws`, `Independent Development`
+* #104 [[2025-08-27] Nonpareil Courses 1 - Certified AWS Practitioner(CLF-02) 01 / “无与伦比”系列课程（一） - 亚马逊云认证 Certified AWS Practitioner(CLF-02) 01](https://github.com/baddif/daily-tech-sharing/issues/104) -  `Nonpareil`, `aws`, `Independent Development`
 * #103 [[2025-08-26] Recording and Sharing about Independently Development - How to work as an independent developer? (7) / 独立开发记录与分享 - 如何成为独立开发者？（七）](https://github.com/baddif/daily-tech-sharing/issues/103) - `Independent Development`
 * #102 [[2025-08-25] Recording and Sharing about Independently Development - How to work as an independent developer? (6) / 独立开发记录与分享 - 如何成为独立开发者？（六）](https://github.com/baddif/daily-tech-sharing/issues/102) - `Independent Development`
 * #101 [[2025-08-24] Recording and Sharing about Independently Development - How to work as an independent developer? (5) / 独立开发记录与分享 - 如何成为独立开发者？（五）](https://github.com/baddif/daily-tech-sharing/issues/101) - `Independent Development`
