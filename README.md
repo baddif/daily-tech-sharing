@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #120 [[2025-09-14] Indenpendent Development - Remote Work / 独立开发 - 远程工作](https://github.com/baddif/daily-tech-sharing/issues/120) -  `Nonpareil`, `Remote Work`, `Independent Development`
 * #119 [[2025-09-13] Nonpareil Courses 1 - Certified AWS Practitioner(CLF-02) network / “无与伦比”系列课程（一） - 亚马逊云认证 Certified AWS Practitioner(CLF-02) 网络](https://github.com/baddif/daily-tech-sharing/issues/119) -  `Nonpareil`, `aws`, `Independent Development`, `Cloud`, `CLF-02`
 * #118 [[2025-09-12] Nonpareil Courses 1 - Certified AWS Practitioner(CLF-02) payment / “无与伦比”系列课程（一） - 亚马逊云认证 Certified AWS Practitioner(CLF-02) 付费方式](https://github.com/baddif/daily-tech-sharing/issues/118) -  `Nonpareil`, `aws`, `Independent Development`, `Cloud`, `CLF-02`
 * #117 [[2025-09-11] Nonpareil Courses 1 - Certified AWS Practitioner(CLF-02) AWS Polly / “无与伦比”系列课程（一） - 亚马逊云认证 Certified AWS Practitioner(CLF-02) AWS Polly](https://github.com/baddif/daily-tech-sharing/issues/117) -  `Nonpareil`, `aws`, `Independent Development`, `Cloud`, `CLF-02`
