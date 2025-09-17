@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #122 [[2025-09-17] Indenpendent Development - How to optimize a resume / 独立开发 - 如何优化简历](https://github.com/baddif/daily-tech-sharing/issues/122) -  `Nonpareil`, `AI`, `Independent Development`, `Resume`
 * #121 [[2025-09-16] Indenpendent Development - GitHub & Open Source / 独立开发 - GitHub与开源](https://github.com/baddif/daily-tech-sharing/issues/121) -  `Nonpareil`, `Open Source`, `Independent Development`
 * #120 [[2025-09-14] Indenpendent Development - Remote Work / 独立开发 - 远程工作](https://github.com/baddif/daily-tech-sharing/issues/120) -  `Nonpareil`, `Remote Work`, `Independent Development`
 * #119 [[2025-09-13] Nonpareil Courses 1 - Certified AWS Practitioner(CLF-02) network / “无与伦比”系列课程（一） - 亚马逊云认证 Certified AWS Practitioner(CLF-02) 网络](https://github.com/baddif/daily-tech-sharing/issues/119) -  `Nonpareil`, `aws`, `Independent Development`, `Cloud`, `CLF-02`
