@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #125 [[2025-09-20] Leetcode 11: 盛最多水的容器](https://github.com/baddif/daily-tech-sharing/issues/125) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #124 [[2025-09-19] Leetcode 283: 移动0](https://github.com/baddif/daily-tech-sharing/issues/124) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #123 [[2025-09-18] 我有一个Html文件，怎么才能让别人看到呢？](https://github.com/baddif/daily-tech-sharing/issues/123) -  `Nonpareil`, `Website`, `Independent Development`, `DNS`
 * #122 [[2025-09-17] Indenpendent Development - How to optimize a resume / 独立开发 - 如何优化简历](https://github.com/baddif/daily-tech-sharing/issues/122) -  `Nonpareil`, `AI`, `Independent Development`, `Resume`
