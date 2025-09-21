@@ -2,7 +2,8 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
-* #125 [[2025-09-21] Leetcode 15. 三数之和（未答出）](https://github.com/baddif/daily-tech-sharing/issues/126) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
+* #127 [[2025-09-22] Leetcode 42. 接雨水（未得最优解）](https://github.com/baddif/daily-tech-sharing/issues/127) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
+* #126 [[2025-09-21] Leetcode 15. 三数之和（未答出）](https://github.com/baddif/daily-tech-sharing/issues/126) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #125 [[2025-09-20] Leetcode 11: 盛最多水的容器](https://github.com/baddif/daily-tech-sharing/issues/125) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #124 [[2025-09-19] Leetcode 283: 移动0](https://github.com/baddif/daily-tech-sharing/issues/124) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #123 [[2025-09-18] 我有一个Html文件，怎么才能让别人看到呢？](https://github.com/baddif/daily-tech-sharing/issues/123) -  `Nonpareil`, `Website`, `Independent Development`, `DNS`
