@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #131 [[2025-09-26] Leetcode 239. 滑动窗口最大值（未得到最优解）](https://github.com/baddif/daily-tech-sharing/issues/131) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #130 [[2025-09-25] Leetcode 560. 和为 K 的子数组（未满足）](https://github.com/baddif/daily-tech-sharing/issues/130) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #129 [[2025-09-24] Leetcode 438. 找到字符串中所有字母异位词](https://github.com/baddif/daily-tech-sharing/issues/129) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #128 [[2025-09-23] Leetcode 3. 无重复字符的最长子串(优于官方，官方答案有问题)](https://github.com/baddif/daily-tech-sharing/issues/128) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
