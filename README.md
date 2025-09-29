@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #134 [[2025-09-29] Leetcode 56. 合并区间（炫技没得到好结果）](https://github.com/baddif/daily-tech-sharing/issues/134) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #133 [[2025-09-28] Leetcode 53. 最大子数组和](https://github.com/baddif/daily-tech-sharing/issues/133) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #132 [[2025-09-27] Leetcode 76. 最小覆盖子串](https://github.com/baddif/daily-tech-sharing/issues/132) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #131 [[2025-09-26] Leetcode 239. 滑动窗口最大值（未得到最优解）](https://github.com/baddif/daily-tech-sharing/issues/131) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
