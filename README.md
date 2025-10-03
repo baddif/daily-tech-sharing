@@ -2,6 +2,8 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #139 [[2025-10-03] From Idea to Architecture: The Real Complexity of Selling E-Books Online](https://github.com/baddif/daily-tech-sharing/issues/139) -  `Nonpareil`, `Independent Development`, `Architecture`, `Requirement`, `Software Project`
+* #138 [[2025-10-03] 为什么“做一个卖电子书的网页”没那么简单？](https://github.com/baddif/daily-tech-sharing/issues/138) -  `Nonpareil`, `Independent Development`, `Architecture`, `Requirement`, `Software Project`
 * #137 [[2025-10-02] Leetcode 41. 缺失的第一个正数（这次官方又不用标准库了）](https://github.com/baddif/daily-tech-sharing/issues/137) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #136 [[2025-10-01] Leetcode 238. 除自身以外数组的乘积（想太多也不好）](https://github.com/baddif/daily-tech-sharing/issues/136) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #135 [[2025-09-30] Leetcode 189. 轮转数组](https://github.com/baddif/daily-tech-sharing/issues/135) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
