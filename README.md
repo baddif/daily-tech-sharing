@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #141 [[2025-10-05] Leetcode 54. 螺旋矩阵（居然击败100%😊）](https://github.com/baddif/daily-tech-sharing/issues/141) -  `Nonpareil`, `Independent Development`, `Architecture`, `Requirement`, `Software Project`
 * #140 [[2025-10-04] Leetcode 73. 矩阵置零（过于追求标准化并非好事）](https://github.com/baddif/daily-tech-sharing/issues/140) -  `Nonpareil`, `Independent Development`, `Architecture`, `Requirement`, `Software Project`
 * #139 [[2025-10-03] From Idea to Architecture: The Real Complexity of Selling E-Books Online](https://github.com/baddif/daily-tech-sharing/issues/139) -  `Nonpareil`, `Independent Development`, `Architecture`, `Requirement`, `Software Project`
 * #138 [[2025-10-03] 为什么“做一个卖电子书的网页”没那么简单？](https://github.com/baddif/daily-tech-sharing/issues/138) -  `Nonpareil`, `Independent Development`, `Architecture`, `Requirement`, `Software Project`
