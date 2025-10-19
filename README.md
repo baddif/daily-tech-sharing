@@ -2,7 +2,8 @@ e# daily-tech-sharing
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
-* #154 [[每日一题][找工作第25天][2025-10-17] Leetcode 25. K 个一组翻转链表](https://github.com/baddif/daily-tech-sharing/issues/154) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
+* #155 [[每日一题][找工作第27天][2025-10-19] Leetcode 148. 排序链表（虽然勉强通过，实际上应该算是失败了😂）](https://github.com/baddif/daily-tech-sharing/issues/155) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
+* #154 [[每日一题][找工作第25天][2025-10-18] Leetcode 25. K 个一组翻转链表](https://github.com/baddif/daily-tech-sharing/issues/154) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #153 [[每日一题][找工作第25天][2025-10-17] Leetcode 25. K 个一组翻转链表](https://github.com/baddif/daily-tech-sharing/issues/153) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #152 [[每日一题][找工作第24天][2025-10-16] Leetcode 24. 两两交换链表中的节点（又一不小心击败100%😊）](https://github.com/baddif/daily-tech-sharing/issues/152) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #151 [[每日一题][找工作第23天][2025-10-15] Leetcode 19. 删除链表的倒数第 N 个结点（再次击败100%😄）](https://github.com/baddif/daily-tech-sharing/issues/151) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
