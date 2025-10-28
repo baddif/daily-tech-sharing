@@ -2,6 +2,7 @@ ee# daily-tech-sharing
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #165 [[每日一题][找工作第37天][2025-10-29] Leetcode 230. 二叉搜索树中第 K 小的元素](https://github.com/baddif/daily-tech-sharing/issues/165) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #164 [[每日一题][找工作第36天][2025-10-28] Leetcode 98. 验证二叉搜索树](https://github.com/baddif/daily-tech-sharing/issues/164) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #163 [[每日一题][找工作第35天][2025-10-27] Leetcode 108. 将有序数组转换为二叉搜索树](https://github.com/baddif/daily-tech-sharing/issues/163) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #162 [[每日一题][找工作第34天][2025-10-26] Leetcode 102. 二叉树的层序遍历](https://github.com/baddif/daily-tech-sharing/issues/162) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
