@@ -2,6 +2,7 @@
 A repo where I share my daily thoughts / new skills / new knowledge about technologies in issues.
 
 ## Technical Sharing Index
+* #179 [[每日一题][找工作第51天][2025-11-12] Leetcode 78. 子集（优于官方）](https://github.com/baddif/daily-tech-sharing/issues/179) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #178 [[每日一题][找工作第50天][2025-11-11] Leetcode 46. 全排列(优于官方)](https://github.com/baddif/daily-tech-sharing/issues/178) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #177 [[每日一题][找工作第49天][2025-11-10] Leetcode 208. 实现 Trie (前缀树)](https://github.com/baddif/daily-tech-sharing/issues/177) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
 * #176 [[每日一题][找工作第48天][2025-11-09] Leetcode 210. 课程表 II](https://github.com/baddif/daily-tech-sharing/issues/176) -  `Nonpareil`, `Leetcode`, `Independent Development`, `Algorithm`
